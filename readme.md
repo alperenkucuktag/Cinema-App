@@ -1,6 +1,6 @@
-<h1>Developer Project</h1>
 
-Sinema koltuk satın alma uygulamasıdır.
+
+Sinema Rezervasyon uygulamasıdır.
 
 # Kullanılan Teknolojiler
 
